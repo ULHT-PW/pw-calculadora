@@ -9,3 +9,5 @@ Passos:
 4. quando um formulário é submetido com dados, em [views.py](https://github.com/CR-21-22/calculadora/blob/main/calculadora/views.py) os dados são validados, seus dados extraídos, processados, e neste caso inseridos de volta no contexto, para [apresentar](https://github.com/CR-21-22/calculadora/blob/7934c7f319554484327adf3037fe4c58fe95ac6a/calculadora/templates/calculadora/index.html#L16) no template o resultado.
 
 <img src="https://github.com/CR-21-22/calculadora/blob/main/calculadoraView.png" width="400">
+
+https://github.com/CR-21-22/calculadora/blob/main/calculadora.mp4
