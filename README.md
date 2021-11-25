@@ -10,4 +10,8 @@ Passos:
 
 <img src="https://github.com/CR-21-22/calculadora/blob/main/calculadoraView.png" width="400">
 
-https://github.com/CR-21-22/calculadora/blob/main/calculadora.mp4
+
+
+
+https://user-images.githubusercontent.com/42048382/143498960-3040e892-39dc-4cdb-a85e-12e9a6ec6648.mp4
+
