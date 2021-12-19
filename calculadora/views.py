@@ -9,7 +9,7 @@ def index(request):
     resultado = expressao = None
 
     if request.POST:
-        form = CalculadoraForm(request.POST)
+        form = CalculadoraForm(request.POST) # a expressão submetida no formulário é guardada na variável form
         if form.is_valid():
             expressao = form.cleaned_data['expressao']
             try:
